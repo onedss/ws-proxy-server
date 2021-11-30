@@ -3,8 +3,9 @@ package main
 import (
 	"github.com/astaxie/beego"
 	"github.com/beego/i18n"
-	_ "github.com/beego/samples/WebIM/routers"
+	_ "github.com/onedss/ws-proxy-server/routers"
 )
+
 const (
 	APP_VER = "0.1.1.0227"
 )

@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"github.com/beego/samples/WebIM/controllers"
 	"github.com/astaxie/beego"
+	"github.com/onedss/ws-proxy-server/controllers"
 )
 
 func init() {

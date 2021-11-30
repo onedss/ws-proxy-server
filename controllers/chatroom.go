@@ -20,7 +20,7 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/gorilla/websocket"
-	"github.com/beego/samples/WebIM/models"
+	"github.com/onedss/ws-proxy-server/models"
 )
 
 type Subscription struct {

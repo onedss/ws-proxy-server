@@ -15,7 +15,7 @@
 package controllers
 
 import (
-	"github.com/beego/samples/WebIM/models"
+	"github.com/onedss/ws-proxy-server/models"
 )
 
 // LongPollingController handles long polling requests.
